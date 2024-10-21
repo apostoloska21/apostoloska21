@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apostoloska21&label=Profile%20views&color=0e75b6&style=flat" alt="apostoloska21" /> </p>
 
-- 🌱 I’m currently self learning through platforms like Udemy and edX. **With main focus on data science, data analytics, and web scraping using Python, numpy, pandas, and tkinter.**
+- 🌱 I’m currently self learning through platforms like Udemy and edX. **I'm primarily focused on data science, data analytics, and web scraping using Python, numpy, pandas, and tkinter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/apostoloska21](https://github.com/apostoloska21)
+- 👨‍💻 Check out all my projects on GitHub: [https://github.com/apostoloska21](https://github.com/apostoloska21)
 
 - 📫 How to reach me **apostoloska21@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-rho-three-18.vercel.app/](https://portfolio-rho-three-18.vercel.app/)
+- 📄 Learn more about my experiences: [https://portfolio-rho-three-18.vercel.app/](https://portfolio-rho-three-18.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to connect with me on my social media!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martina-apostoloska2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martina-apostoloska2" height="30" width="40" /></a>
 <a href="https://fb.com/martina.apostoloska.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martina.apostoloska.18" height="30" width="40" /></a>
