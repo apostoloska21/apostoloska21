@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apostoloska21&label=Profile%20views&color=0e75b6&style=flat" alt="apostoloska21" /> </p>
 
-- 🌱 I’m currently self learning through platforms like Udemy and edX. **I'm primarily focused on data science, data analytics, and web scraping using Python, numpy, pandas, and tkinter**
+- 🌱 **I'm primarily focused on data science, data analytics, and web scraping using Python, numpy, pandas, and tkinter**
 
 - 👨‍💻 Check out all my projects on GitHub: [https://github.com/apostoloska21](https://github.com/apostoloska21)
 
-- 📫 How to reach me **apostoloska21@gmail.com**
+- 📫 How to reach me : email: **apostoloska21@gmail.com** ,  linkedin: **https://www.linkedin.com/in/martina-apostoloska2/**
 
 - 📄 Learn more about my experiences: [https://portfolio-rho-three-18.vercel.app/](https://portfolio-rho-three-18.vercel.app/)
 
